@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Zoisky
+- 👀 I’m interested in Excel, SQL, R, Python, Tableau, and PowerBI.
+- 🌱 I’m currently learning Excel and statistical learning. 
+- 💞️ I’m looking to collaborate on number 3.
